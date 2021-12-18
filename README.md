@@ -1,4 +1,4 @@
-# Project 3 README file
+# Project Design
 In this file, I illustrate the implementation flow of each part in detail and use pictures as high-level design guidance. I also conclude the tests I tried and the project design trade-offs and struggles etc.
 
 ## Part I: Proxy Server with libcurl
